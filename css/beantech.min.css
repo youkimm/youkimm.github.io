@@ -580,7 +580,10 @@ pre code {
 }
 footer {
   font-size: 20px;
-  padding: 50px 0 65px;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 footer .list-inline {
   margin: 0;
